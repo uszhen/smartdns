@@ -1,3 +1,11 @@
+# 服务器代理服务
+
+如果你觉得本项目对你有用,而且你也恰巧有这方面的需求,你也可以选择通过我的购买链接赞助我  
+- [搬瓦工GIA服务器](https://bandwagonhost.com/aff.php?aff=41846)  - - - 仅推荐购买GIA套餐 - - -   
+
+如果你希望购买一些现成的代理服务,可选择下述代理服务
+- [搬瓦工官方机场](https://justmysocks.net/members/aff.php?aff=16884)  
+
 # SmartDNS
 
 **[English](ReadMe_en.md)**
@@ -133,22 +141,6 @@ rtt min/avg/max/mdev = 5.954/6.133/6.313/0.195 ms
 - 文档编译：
 
   文档分支为`doc`，安装`mkdocs`工具后，执行`mkdocs build`编译。
-
-## 捐赠
-
-如果你觉得此项目对你有帮助，请捐助我们，使项目能持续发展和更加完善。
-
-### PayPal 贝宝
-
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://paypal.me/PengNick/)
-
-### AliPay 支付宝
-
-![alipay](doc/alipay_donate.jpg)
-
-### WeChat Pay 微信支付
-
-![wechat](doc/wechat_donate.jpg)
 
 ## 开源声明
 
